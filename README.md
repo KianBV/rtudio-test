@@ -1,2 +1,3 @@
 # rtudio-test
-probavam
+probava
+evo dodao sam nekaj i mako malo
